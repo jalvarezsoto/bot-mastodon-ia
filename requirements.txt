@@ -1,0 +1,5 @@
+Mastodon.py
+ollama
+requests
+beautifulsoup4
+python-dotenv
