@@ -1,8 +1,16 @@
 # Bot de moderación para Mastodon con IA
 
-Este parte del proyecto implementa un bot de moderación automática para Mastodon. Su objetivo es escuchar nuevas publicaciones, preparar su contenido para análisis y usar un modelo de IA mediante Ollama para detectar posibles incumplimientos de las normas de la comunidad.
+Hemos implementado un bot de moderación automática para Mastodon. Su objetivo es escuchar nuevas publicaciones, preparar su contenido para análisis y usar un modelo de IA mediante Ollama para detectar posibles incumplimientos de las normas de la comunidad.
 
 El bot trabaja en **modo estricto**, por lo que ante una infracción clara o razonable tiende a marcar la publicación como infractora y reportarla para revisión por moderación humana.
+
+> **Aviso importante**  
+> Este repositorio forma parte de un proyecto final desarrollado para el módulo de formación dual.  
+> El código publicado aquí representa únicamente una parte del proyecto completo y se comparte con fines educativos, demostrativos y documentales.
+>
+> Su objetivo principal es mostrar cómo funciona un bot de moderación automática para Mastodon apoyado por inteligencia artificial, explicando su flujo general, su lógica de análisis y su integración con servicios externos como Mastodon y Ollama.
+>
+> Este repositorio no debe interpretarse como una solución final lista para producción, sino como una muestra técnica destinada a explicar el funcionamiento de una parte concreta del proyecto.
 
 ---
 
